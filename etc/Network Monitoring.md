@@ -33,10 +33,21 @@ networkMonitor.start(queue: DispatchQueue.global())
 
 <br>
 
+위에서 path의 상태는 
+```swift
+case unsatisfied
+
+case satisfied
+
+case requiresConnection
+```
+3가지가 있다
+
+> https://developer.apple.com/documentation/network/nwpath/status
+
+<br>
+
 모니터링을 그만둘 경우
 ```swift
-networkMonitor.stop()
+networkMonitor.cancel()
 ```
-
-
-> https://magicmon.tistory.com/229

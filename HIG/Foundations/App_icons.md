@@ -125,3 +125,5 @@ App Store의 경우, watchOS 앱 아이콘의 1024x1024 px 버전을 만드세�
 연동된 iPhone 앱이 있다면, 다음 크기로 watchOS 앱 아이콘을 제공해야 합니다.
 
 <img width="528" alt="스크린샷 2022-06-20 오후 7 23 53" src="https://user-images.githubusercontent.com/74440939/174581933-2dfcf88c-57e2-487f-a69d-6709c3545169.png">
+
+> https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons

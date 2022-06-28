@@ -21,3 +21,5 @@
 <Strong>Launch Screen을 브랜딩 기회로 사용하지 마세요.</Strong> 일부 플랫폼은 시작 경험을 최소화하기 위해 실행 화면을 사용하는 동시에 앱이나 게임에 리소스를 로드하는 데 약간의 시간을 제공합니다(지침은 [Launch Screen](https://developer.apple.com/design/human-interface-guidelines/patterns/launching#launch-screens)을 참조하십시오).
 
 <Strong>Apple의 상표 지침을 따르세요</Strong> Apple 상표는 앱 이름이나 이미지에 표시되어서는 안 됩니다. [Apple 상표 목록](https://www.apple.com/legal/intellectual-property/trademark/appletmlist.html) 및 [Apple 상표 사용 지침](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)을 참조하십시오.
+
+> https://developer.apple.com/design/human-interface-guidelines/foundations/branding

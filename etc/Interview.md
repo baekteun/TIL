@@ -113,3 +113,11 @@ UIKit앱의 뷰 계층 구조를 관리하는 객체이다.
 # 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
 foreground: 리소스에 대해 background앱 보다 높은 우선순위를 가지고 리소스를 사용할 수 있도록 필요에 따라 background앱을 종료 시킨다.
 background: 가능한 적은 메모리 공간을 사용해야한다.
+
+<br>
+<br>
+
+# 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
+- 앱을 종료하거나 다른 앱으로 이동 시에 resignActive 메서드가 실행되며 앱이 InActive 상태가 된다.
+  
+  

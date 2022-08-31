@@ -120,4 +120,8 @@ background: 가능한 적은 메모리 공간을 사용해야한다.
 # 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
 - 앱을 종료하거나 다른 앱으로 이동 시에 resignActive 메서드가 실행되며 앱이 InActive 상태가 된다.
   
-  
+# SceneDelegate
+만들어진 이유?
+iOS 13 이전에는 하나의 앱은 단 하나의 window를 가졌으나 13 이후로 다중 윈도우가 지원됨.
+이후로 Window라는 개념은 Scene으로 바뀜.
+AppDelegate에 있던 UI관련된 라이프사이클이 SceneDelegate로 옮겨짐.
